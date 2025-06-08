@@ -1,28 +1,11 @@
-<h1 align="center">Hi, I'm Saksham Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h1>
-<p align="center">Final-year CS student · Developer at ING Tech · Web Dev Enthusiast</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=600&color=00FFD1&center=true&vCenter=true&width=600&lines=~$+Initializing...;Loading+Saksham.sh...;Welcome+to+the+dev+zone">
+</h1>
+
+
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sakshamsharma7" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:saksham@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://saksham-portfolio.vercel.app" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamsharma7&theme=dark&hide_border=true" width="480" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshamsharma7&show_icons=true&hide_border=true&theme=dark" width="480" />
 </p>
-
----
-
-### 🚀 About Me
-
-```ts
-const saksham = {
-  pronouns: "he/him",
-  code: ["JavaScript", "TypeScript", "React", "Angular", "Node.js"],
-  tools: ["Vite", "Tailwind", "Firebase", "Supabase"],
-  currently: "Building a project management platform for my final year",
-  learning: "Mastering core JavaScript and system design",
-  goals: ["Build full-stack systems", "Ship clean, scalable code"],
-};
