@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Saksham Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h1>
+<p align="center">Final-year CS student · Developer at ING Tech · Web Dev Enthusiast</p>
 
-<!--
-**saksham310/saksham310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshamsharma7" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saksham@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://saksham-portfolio.vercel.app" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+```ts
+const saksham = {
+  pronouns: "he/him",
+  code: ["JavaScript", "TypeScript", "React", "Angular", "Node.js"],
+  tools: ["Vite", "Tailwind", "Firebase", "Supabase"],
+  currently: "Building a project management platform for my final year",
+  learning: "Mastering core JavaScript and system design",
+  goals: ["Build full-stack systems", "Ship clean, scalable code"],
+};
