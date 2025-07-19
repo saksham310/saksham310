@@ -1,11 +1,45 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=600&color=00FFD1&center=true&vCenter=true&width=600&lines=~$+Initializing...;Loading+Saksham.sh...;Welcome+to+the+dev+zone">
-</h1>
 
-
+<h1 align="center">Saksham Sharma</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamsharma7&theme=dark&hide_border=true" width="480" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshamsharma7&show_icons=true&hide_border=true&theme=dark" width="480" />
+  I build robust and beautiful applications where thoughtful design meets powerful engineering.
 </p>
+
+<br/>
+
+<p align="center">
+<!--   <a href="[YOUR PORTFOLIO URL]" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
+  </a> -->
+   
+  <a href="[[YOUR LINKEDIN URL]](https://www.linkedin.com/in/saksham-sharma-36b03125a/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+   
+  <a href="mailto:sakshams982@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
+  </a>
+</p>
+
+<br/>
+<br/>
+
+---
+
+<h3 align="center">Core Stack</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- NOTE: Fewer, more impactful icons. This is your "T-Shape". -->
+    <img src="https://skillicons.dev/icons?i=angular,django,typescript,python,postgres,sass,git" />
+  </a>
+</p>
+
+<p align="center">
+  My expertise is centered around a modern, enterprise-grade stack, but I'm a versatile engineer with experience across the web, including React and Node.js.
+</p>
+
+---
+
+<br/>
+<br/>
