@@ -31,7 +31,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- NOTE: Fewer, more impactful icons. This is your "T-Shape". -->
-    <img src="https://skillicons.dev/icons?i=angular,django,typescript,python,postgres,sass,git" />
+    <img src="https://skillicons.dev/icons?i=angular,nestjs,typescript,python,postgres,sass,git" />
   </a>
 </p>
 
